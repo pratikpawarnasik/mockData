@@ -1,0 +1,16 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Restaurant A",
+      "location": "Location A",
+      "cuisine": "Cuisine A"
+    },
+    {
+      "id": 2,
+      "name": "Restaurant B",
+      "location": "Location B",
+      "cuisine": "Cuisine B"
+    }
+  ]
+}
